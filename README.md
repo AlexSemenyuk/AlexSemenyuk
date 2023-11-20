@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexSemenyuk
-- 🌱 I’m currently learning java
+
 
 
 <!---
